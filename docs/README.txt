@@ -1,10 +1,5 @@
 This includes the Supplementary Materials for VQTalker.
 
-Below are the two most important files:
-
-- Supplementary_Materials_VQ_Talker.pdf
-  Includes more detailed dataset configurations, model configurations, and additional experiments.
-
 - index.html
   Please open it directly. It contains visual files of the videos, including the following visual materials:
 
