@@ -1,0 +1,1 @@
+Due to capacity limitations of supplementary materials, this directory contains only a portion of the Multilingual Non-Indo-European Talking Head Evaluation Corpus (MNTE) dataset files. In the future, we will at least make public the public web sources. After we ensure that there are no copyright issues, we will release all the data for everyone to test.

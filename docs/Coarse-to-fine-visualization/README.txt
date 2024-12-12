@@ -1,0 +1,8 @@
+This folder contains a set of four videos demonstrating the progressive impact of residual codebook levels in our video driving model. Each video is divided into three panels: the leftmost displays the source portrait to be driven, the middle shows the driving video, and the rightmost presents the driven result. To illustrate the modeling capabilities at different residual codebook levels, we sequentially reveal the codebooks:
+
+1. "1_first_level_codebook.mp4" showcases only the first codebook level, masking the subsequent three.
+2. "2_first_2_levels_codebook.mp4" reveals the first two codebook levels, masking the latter two.
+3. "3_first_3_levels_codebook.mp4" utilizes the first three codebook levels, masking only the final one.
+4. "4_all_levels_codebook.mp4" employs all codebook levels.
+
+Observing the progression, we find that the first codebook level models coarse-grained features such as head pose incompletely. Introducing the second residual codebook level captures finer details like eye blinks and lip movements. The third codebook level achieves a near-complete reconstruction of the original video, though some jitter remains. Finally, incorporating all codebook levels (the complete set) eliminates the remaining jitter, producing a smooth and accurate result. This demonstration underscores the hierarchical nature of our residual codebook approach, showcasing how each level contributes to increasingly refined and faithful video reconstruction.
