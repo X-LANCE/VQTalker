@@ -12,5 +12,4 @@ Towards Multilingual Talking Avatars through Facial Motion Tokenization
 </div>
 <br>
 
-
-The repository is currently undergoing updates.
+The paper is currently being prepared for the camera-ready version.
